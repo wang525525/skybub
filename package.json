@@ -36,7 +36,7 @@
     "quill-emoji": "0.0.9",
     "quill-image-drop-module": "^1.0.3",
     "quill-image-resize-module": "^3.0.0",
-    "sanitize-html": "^1.14.1",
+    "sanitize-html": "^2.3.2",
     "serve-favicon": "^2.4.1",
     "socket.io-client": "^2.0.3",
     "transform-runtime": "0.0.0",
